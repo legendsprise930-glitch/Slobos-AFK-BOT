@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CPSBP.aternos.me:61027",
+    "ip": "flagtail.aternos.host:61027",
     "port": 61027,
     "version": "1.21.1"
   },
